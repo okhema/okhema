@@ -2,4 +2,4 @@
 <img width="1286" height="450" alt="Untitled141_20251231222308" src="https://github.com/user-attachments/assets/5f94dd62-d3f8-4937-b8cd-930bf0f82fe4" />
 
 
-![](https://komarev.com/ghpvc/?username=okhema&label=cycle)
+![](https://komarev.com/ghpvc/?username=okhema&label=cycle&color=3C3BA2&style=plastic&abbreviated=true)
